@@ -3,6 +3,7 @@ fn main() {
     println!();
 
     println!("<html>");
-    println!("<p>Hello, world!</p>");
+    println!("<h1>Fahrenheit to Celcius conversion</h1>");
+    println!("<p>Hello</p>");
     println!("</html>");
 }
